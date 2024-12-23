@@ -59,11 +59,11 @@ The first form will delete the specified entry, the second one all entries for M
 If you are unsure of what you're doing, just make a copy of your *mod_storage.sqlite" file before starting to edit it...
 
 ## Caveats
-Processing of other backend storage is not supported.
+Processing of other backend storage methods is not supported.
 
 ## Possible future directions
 This command was made to clean up my mod_storage file after playing too much with work-in-progress mods.
 
-And I especially wanted to test the possibility to communicate with a client-side mod through this file.
+And I especially wanted to test the possibility to communicate with a client-side mod through this file...
 
 Go to [Discussions](https://github.com/HubTou/chat_exporter/discussions) if you want to suggest other things...
