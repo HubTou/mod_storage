@@ -1,7 +1,7 @@
 # mod_storage manager
 A [Luanti](https://www.luanti.org/) tool for managing the mod_storage SQLite3 database file content.
 
-With it you can view the database entries, insert entries, delete entries or delete all entries by modname or key.
+With it you can view the database entries, insert entries, delete an entry or delete all entries by modname or key.
 
 ## Installation
 1. Install [Python](https://www.python.org/downloads/),
