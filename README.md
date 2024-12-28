@@ -67,4 +67,6 @@ This command was made to clean up my mod_storage file after playing too much wit
 **And I especially wanted to test the possibility to communicate with a client-side mod through this file...
 => It works! Two way communication between Luanti and an external program is possible through mod_storage.sqlite**
 
+Given this result, it would now be interesting to offer a batch mechanism to import/export file contents into/from mod_storage.
+
 Go to [Discussions](https://github.com/HubTou/chat_exporter/discussions) if you want to suggest other things...
