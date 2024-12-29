@@ -69,4 +69,6 @@ This command was made to clean up my mod_storage file after playing too much wit
 
 Given this result, it would now be interesting to offer a batch mechanism to import/export file contents into/from mod_storage.
 
+Other than that, I still need to check how [ints, floats and tables](https://github.com/minetest/minetest/blob/master/doc/lua_api.md#methods-6) are stored, and adapt the tool to handle them.
+
 Go to [Discussions](https://github.com/HubTou/chat_exporter/discussions) if you want to suggest other things...
